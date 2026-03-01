@@ -1,0 +1,4 @@
+## New Countries Added by Pacific Submod ##
+
+### Polynesia ###
+SAM = "countries/SouthAm.txt" # Western Samoa
